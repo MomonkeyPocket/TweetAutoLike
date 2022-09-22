@@ -1,5 +1,9 @@
+# file
 .DS_store
 pyvenv.cfg
+TwitterApiToken.json
+
+# directory
 bin/
 include/
 lib/
